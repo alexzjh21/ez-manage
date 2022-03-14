@@ -10,3 +10,8 @@ inquirer
             ]
         }
     ])
+    .then((answer) => {
+        if (answer === 'View all DEPARTMENTS') {
+
+        }
+    });
